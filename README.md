@@ -1,4 +1,4 @@
-Hotel Management System
+<div style= "font-size: 18px;">Hotel Management System
 The Hotel Management System is a web-based application developed to manage hotel operations efficiently. It is built using HTML, CSS, JavaScript, PHP, AJAX, and MySQL to provide a comprehensive solution for hotel management.
 --------
 Features
@@ -7,7 +7,7 @@ Room Booking: Allows guests to view available rooms, book, and manage reservatio
 Admin Dashboard: Provides administrators with tools to manage rooms, reservations, and user accounts.
 Room Management: Allows admins to add, edit, or delete rooms along with their details (type, price, availability).
 Reservation Management: Enables admins to view, approve, or cancel guest reservations.
-Responsive Design: User-friendly interface accessible on various devices.
+Responsive Design: User-friendly interface accessible on various devices.</div>
 ---------------------------------------
 Technologies Used
 Frontend:
